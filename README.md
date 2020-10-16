@@ -10,8 +10,14 @@
 
 I am a nerd, that wants and likes to code some things. I love to make discord bots (discord.js), Minecraft plugins, editing websites. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="25">. 
 
+⭐️ From [@Huntidlo](https://github.com/Huntidlo)
+- 💬 By myself I self-taught all program languages that I know (Java, JavaScript, something about HTML, ...), but I still have a lot to learn!
 
-<h3>Things I code with or I was coding with</h3>
+- 🎓 I'm a student in 1th grade in Secondary School.
+
+- 😄 Pronouns: **He/Him**
+
+- ⌨️ Things I code with or I was coding with
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffe699?style=flat-square&logo=javascript&logoColor=white" /> 
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=CSS3&logoColor=white" />
@@ -28,6 +34,7 @@ I am a nerd, that wants and likes to code some things. I love to make discord bo
 </p>
 
 
+
 - 📫 Something where you can find me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Huntidlo) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="best server" width="24">](https://southcraft.cz) |  [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/steam-512.png" alt="steam logo" width="28">](https://steamcommunity.com/id/HunterVoe/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Huntidlo) |  [<img src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png" alt="discord logo" width="24">](https://discord.bio/p/huntervoe/)
@@ -42,10 +49,4 @@ I am a nerd, that wants and likes to code some things. I love to make discord bo
 ![Huntidlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huntidlo&hide=["stars"]&show_icons=true)
 
 -------
-
-⭐️ From [@Huntidlo](https://github.com/Huntidlo)
-
-- 💬 By myself I self-taught all program languages that I know (Java, JavaScript, something about HTML, ...), but I still have a lot to learn
-
-- 😄 Pronouns: **He/Him**
 
