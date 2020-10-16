@@ -2,6 +2,9 @@
 <img src="https://github.com/Huntidlo/Huntidlo/blob/main/octo.gif" width="150" height="150" />
 </p>
 
+<p align="center">
+<img src="https://github.com/Huntidlo/Huntidlo/blob/main/text1.gif" />
+</p>
 .
   
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="26px"/> Hello World, I'm Huntidlo !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
