@@ -18,8 +18,6 @@ I am a nerd, that wants and likes to code some things. I love to make discord bo
 
 - 🎓 I'm a student in 1th grade in Secondary School.
 
-- 😄 Pronouns: **He/Him**
-
 - ⌨️ Things I code with or I was coding with
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffe699?style=flat-square&logo=javascript&logoColor=white" /> 
