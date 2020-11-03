@@ -11,7 +11,7 @@
   
 :heart: Programming | :black_heart: Gaming | :blue_heart: Listening Music
 
-I am a boy, that wants and likes to code some things. I love to make discord bots (discord.js), Minecraft plugins, editing websites. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="25">. 
+I am a gay, that wants and likes to code some things. I love to make discord bots (discord.js), Minecraft plugins, editing websites. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="25">. 
 
 ⭐️ From [@Huntidlo](https://github.com/Huntidlo)
 - 💬 By myself I self-taught all program languages that I know (Java, JavaScript, something about HTML, ...), but I still have a lot to learn!
